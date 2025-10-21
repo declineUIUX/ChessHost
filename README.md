@@ -1,2 +1,2 @@
 # ChessHost
-tour hosting system [ ths]
+tour hosting system [commited THS]
